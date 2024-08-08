@@ -1,6 +1,6 @@
 # Tap Ether 📱
 
-### Getting started
+### Getting started 2. Set Up iOS Simulator. Configure the iOS simulator via Xcode to emulate the app on your machine.
 
 1. Download and install Xcode from the [Apple Developer](https://developer.apple.com/xcode/) website.
 
